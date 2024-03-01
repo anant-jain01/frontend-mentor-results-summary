@@ -1,4 +1,6 @@
 # Frontend Mentor - Results summary component
+LINK TO VIEW:
+https://frontend-mentor-results-summary-five.vercel.app/
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
